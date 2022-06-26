@@ -1,0 +1,142 @@
+[
+  {
+    "description": "Вы медленно открываете глаза. Вам тяжело, болит голова. Вы осматриваете себя и видите белый халат и деловой костюм.",
+    "choice_description": null,
+    "id": 17,
+    "visualisations": [
+      {
+        "title": "текст от автора",
+        "description": "плашка другого (чёрного) цвета сверху экрана",
+        "id": 7
+      }
+    ],
+    "card": {
+      "id": 17,
+      "queststep_id": 17,
+      "image": {
+        "file_id": "10ced12a-d84a-11ec-950d-0242ac140007"
+      },
+      "updated_at": "2022-05-04T13:13:21.135120"
+    }
+  },
+  {
+    "description": "Кто я? Где я? ",
+    "choice_description": null,
+    "id": 18,
+    "visualisations": [
+      {
+        "title": "мысли гг",
+        "description": "мысленный баббл",
+        "id": 5
+      }
+    ],
+    "card": {
+      "id": 18,
+      "queststep_id": 18,
+      "image": {
+        "file_id": "10ced12a-d84a-11ec-950d-0242ac140007"
+      },
+      "updated_at": "2022-05-04T13:20:02.237219"
+    }
+  },
+  {
+    "description": "Это похоже... на кабинет главврача?",
+    "choice_description": "Ничего не помню",
+    "id": 20,
+    "visualisations": [
+      {
+        "title": "мысли гг",
+        "description": "мысленный баббл",
+        "id": 5
+      }
+    ],
+    "card": {
+      "id": 20,
+      "queststep_id": 20,
+      "image": {
+        "file_id": "10ced12a-d84a-11ec-950d-0242ac140007"
+      },
+      "updated_at": "2022-05-04T13:24:54.114242"
+    }
+  },
+  {
+    "description": "Какой-то шум в здании и снаружи, за окном.",
+    "choice_description": "Или мне кажется?",
+    "id": 21,
+    "visualisations": [
+      {
+        "title": "мысли гг",
+        "description": "мысленный баббл",
+        "id": 5
+      }
+    ],
+    "card": {
+      "id": 21,
+      "queststep_id": 21,
+      "image": {
+        "file_id": "10ced12a-d84a-11ec-950d-0242ac140007"
+      },
+      "updated_at": "2022-05-04T13:24:59.221702"
+    }
+  },
+  {
+    "description": "У вас в кабинете железная дверь на засове.",
+    "choice_description": "Проверить дверь",
+    "id": 22,
+    "visualisations": [
+      {
+        "title": "текст от автора",
+        "description": "плашка другого (чёрного) цвета сверху экрана",
+        "id": 7
+      }
+    ],
+    "card": {
+      "id": 22,
+      "queststep_id": 22,
+      "image": {
+        "file_id": "10ced12a-d84a-11ec-950d-0242ac140007"
+      },
+      "updated_at": "2022-05-04T13:25:28.525864"
+    }
+  },
+  {
+    "description": "Вы на третьем этаже, окно выходит во внутренний двор больницы. Во дворе какие-то люди.",
+    "choice_description": "Проверить окно",
+    "id": 24,
+    "visualisations": [
+      {
+        "title": "текст от автора",
+        "description": "плашка другого (чёрного) цвета сверху экрана",
+        "id": 7
+      }
+    ],
+    "card": {
+      "id": 22,
+      "queststep_id": 22,
+      "image": {
+        "file_id": "9c02477c-d84f-11ec-a776-0242ac140007"
+      },
+      "updated_at": "2022-05-04T13:25:28.525864"
+    }
+  },
+  {
+    "description": "Интересно, к чему бы это?",
+    "choice_description": null,
+    "id": 25,
+    "visualisations": [
+      {
+        "title": "мысли гг",
+        "description": "мысленный баббл",
+        "id": 5
+      }
+    ],
+    "card": {
+      "id": 25,
+      "queststep_id": 25,
+      "image": {
+        "file_id": "10ced12a-d84a-11ec-950d-0242ac140007"
+      },
+      "updated_at": "2022-05-05T11:40:11.426832"
+    }
+  }
+]
